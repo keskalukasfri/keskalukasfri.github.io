@@ -1,0 +1,6 @@
+{
+  "issuer": "https://keskalukasfri.github.io",
+  "jwks_uri": "https://keskalukasfri.github.io/.well-known/jwks.json",
+  "client_name": "keskalukasfri",
+  "logo_uri": "https://avatars.githubusercontent.com/u/270303466?v=4"
+}
