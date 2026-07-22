@@ -5,12 +5,12 @@
       "crv": "P-256",
       "kty": "EC",
       "use": "sig",
-      "x": "zUqGVF1nJ6twxj9AyxVc-oOc3nJzrIUtsLPjMTljr80",
-      "y": "tW9blmqSgaC_SwqDwvQcXDq-_cUHqvWppvfVIyY8h_I",
-      "kid": "2026-07-20_a6c",
+      "x": "-JBeFRlEH0--sJWqmSidJgSAYmQwyocYRGVLC0HC0BU",
+      "y": "phh7yL7Cq8EkxmzLZGDOGRcB4Yjm6Su5i-qXVIuHpmo",
+      "kid": "2026-07-22_5bf",
       "aauth": {
         "device": "lukasfri-macbook-pro",
-        "created": "2026-07-20"
+        "created": "2026-07-22"
       }
     }
   ]
